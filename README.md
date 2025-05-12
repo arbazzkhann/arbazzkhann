@@ -48,3 +48,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=arbazzkhann&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+[![Arbaz Khan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arbazzkhann&theme=dracula)](https://github.com/arbazzkhann/github-readme-activity-graph)

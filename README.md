@@ -45,9 +45,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arbazzkhann&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arbazzkhann&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <a href="https://github.com/arbazzkhann/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arbazzkhann&theme=tokyo-night&area=true&hide_border=true" alt="My GitHub Activity Graph" />
+  </a>
+</p>
+
+
+<!--
 ---
 
 [![](https://visitcount.itsvg.in/api?id=arbazzkhann&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-[![Arbaz Khan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arbazzkhann&theme=dracula)](https://github.com/arbazzkhann/github-readme-activity-graph)
+-->

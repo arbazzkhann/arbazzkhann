@@ -1,9 +1,7 @@
 # 👋 Hi, I’m @Arbaz Khan  
 - 👀 I’m a Frontend Web Developer  
-- 🌱 I’m currently learning React JS and React Native  
-- 📫 How to reach me: DM me on Instagram  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love turning creative ideas into clean, functional UI  
+- 🌱 I’m currently learning React JS 
+- 📫 How to reach me: DM me on Instagram 
 
 ---
 

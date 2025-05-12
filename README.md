@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @Arbaz Khan  
 - 👀 I’m a Frontend Web Developer  
-- 🌱 I’m currently learning React JS 
+- 🌱 I’m currently working on React JS
+- 🎓 I'm currently learning MERN stack
 - 📫 How to reach me: DM me on Instagram 
 
 ---

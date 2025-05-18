@@ -2,7 +2,7 @@
 - 👀 I’m a Frontend Web Developer  
 - 🌱 I’m currently working on React JS
 - 🎓 I'm currently learning MERN stack
-- 📫 How to reach me: DM me on Instagram 
+- 📫 How to reach me: DM me on Linkedin and Instragram
 
 ---
 

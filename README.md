@@ -1,13 +1,13 @@
 # 👋 Hi, I’m @Arbaz Khan  
-- 👀 I’m a Frontend Web Developer  
-- 🌱 I’m currently working on React JS
-- 🎓 I'm currently learning MERN stack
+- 👀 I’m a Fullstack Web Developer  
+- 🌱 I’m currently working on MERN stack.
+- 🎓 I'm currently learning Next.js
 - 📫 How to reach me: DM me on Linkedin and Instragram.
 
 ---
 
 ## 💫 About Me:
-🎓 I’m a technically skilled BCA student with a strong foundation in front-end web development.  
+🎓 I’m a technically skilled BCA student with a strong foundation in fullstack web development.  
 💻 I have hands-on experience building responsive web applications using HTML, CSS, JavaScript, React, and Tailwind CSS.  
 🛢️ I also have knowledge of MySQL for integrating databases into projects.  
 🧠 I’m committed to writing clean, maintainable code and always looking for ways to improve my technical skills to build better digital solutions.  

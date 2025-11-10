@@ -7,10 +7,17 @@
 ---
 
 ## 💫 About Me:
-🎓 I’m a technically skilled BCA student with a strong foundation in fullstack web development.  
-💻 I have hands-on experience building responsive web applications using HTML, CSS, JavaScript, React, and Tailwind CSS.  
-🛢️ I also have knowledge of MySQL for integrating databases into projects.  
-🧠 I’m committed to writing clean, maintainable code and always looking for ways to improve my technical skills to build better digital solutions.  
+
+- 🎓 **BCA student** with hands-on experience in **full-stack web development**
+- 💻 Skilled in **HTML, CSS, JavaScript, React.js, Tailwind CSS** for building responsive and modern UIs
+- 🛠️ Backend development using **Node.js** and **Express.js**, with database integration in **MongoDB & MySQL**
+- 🏗️ **Projects Built:**
+  - **Property Listing Platform** with user authentication, CRUD operations, and responsive UI
+  - **Personal Blog System** with post management, search filters, and dark/light mode support
+- ✨ Dedicated to writing **clean, efficient, and maintainable code**
+- 🚀 Continuously exploring new technologies to improve **development workflow and problem-solving**
+- 🤝 Collaborative mindset with a passion for building meaningful digital experiences
+- 🌍 Open to **internships, freelance opportunities, and full-time roles** in web development  
 
 ---
 

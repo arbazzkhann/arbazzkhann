@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Arbaz Khan  
 - 👀 I’m a Fullstack Web Developer  
 - 🌱 I’m currently working on MERN stack.
-- 🎓 I'm currently learning Next.js
+- 🎓 I'm also learning Next.js
 - 📫 How to reach me: DM me on Linkedin and Instragram.
 
 ---

@@ -54,15 +54,15 @@
 
 
 <!-- Contribution graph -->
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/arbazzkhann/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=arbazzkhann&theme=tokyo-night&area=true&hide_border=true" alt="My GitHub Activity Graph" />
   </a>
-</p> -->
-
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/arbazzkhann/arbazzkhann/output/github-snake-dark.svg](https://github.com/arbazzkhann/arbazzkhann/blob/output/github-contribution-grid-snake-dark.svg)" width="100%" />
 </p>
+
+<!-- <p align="center">
+  <img src="[https://raw.githubusercontent.com/arbazzkhann/arbazzkhann/output/github-snake-dark.svg](https://github.com/arbazzkhann/arbazzkhann/blob/output/github-contribution-grid-snake-dark.svg)" width="100%" />
+</p> -->
 
 
 

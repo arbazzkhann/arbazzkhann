@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Arbaz Khan  
+#  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I’m @Arbaz Khan  
 - 👀 I’m a Fullstack Web Developer  
 - 🌱 I’m currently working on MERN stack.
 - 🎓 I'm also learning Next.js
@@ -6,7 +6,7 @@
 
 ---
 
-## 💫 About Me:
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me:
 
 - 🎓 **BCA student** with hands-on experience in **full-stack web development**
 - 💻 Skilled in **HTML, CSS, JavaScript, React.js, Tailwind CSS** for building responsive and modern UIs
@@ -50,11 +50,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arbazzkhann&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arbazzkhann&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
+
+
+
+<!-- Contribution graph -->
+<!-- <p align="center">
   <a href="https://github.com/arbazzkhann/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=arbazzkhann&theme=tokyo-night&area=true&hide_border=true" alt="My GitHub Activity Graph" />
   </a>
-</p>
+</p> -->
+
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/arbazzkhann/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 <!--
@@ -62,3 +68,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=arbazzkhann&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
+
+
+

@@ -60,7 +60,10 @@
   </a>
 </p> -->
 
-![Snake animation](https://github.com/arbazzkhann/arbazzkhann/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arbazzkhann/arbazzkhann/output/github-snake-dark.svg" width="100%" />
+</p>
+
 
 
 <!--

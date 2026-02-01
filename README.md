@@ -21,7 +21,7 @@
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f607/512.webp" width="30px"/>&nbsp;Socials:
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f607/512.webp" width="28px"/>&nbsp;Socials:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbazzkhann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xr_arbazsaifi)  
 
 ---

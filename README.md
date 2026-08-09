@@ -49,27 +49,27 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="42" height="42" alt="Java"/><br>
+      <img src="https://skillicons.dev/icons?i=java" width="35" height="35" alt="Java"/><br>
       <b>Java</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=spring" width="42" height="42" alt="Spring"/><br>
+      <img src="https://skillicons.dev/icons?i=spring" width="35" height="35" alt="Spring"/><br>
       <b>Spring</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=hibernate" width="42" height="42" alt="Hibernate"/><br>
+      <img src="https://skillicons.dev/icons?i=hibernate" width="35" height="35" alt="Hibernate"/><br>
       <b>Hibernate</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=maven" width="42" height="42" alt="Maven"/><br>
+      <img src="https://skillicons.dev/icons?i=maven" width="35" height="35" alt="Maven"/><br>
       <b>Maven</b>
     </td>
     <td align="center">
       <img src="https://download.logo.wine/logo/Apache_Tomcat/Apache_Tomcat-Logo.wine.png"
-           width="42"
-           height="42"
+           width="35"
+           height="35"
            alt="Apache Tomcat"
-           style="background-color:#242938; border-radius:8px; padding:4px;"/><br>
+           style="background-color:#235938; border-radius:8px; padding:4px;"/><br>
       <b>Tomcat</b>
     </td>
   </tr>
@@ -88,27 +88,27 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="42" height="42" alt="React.js"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="35" height="35" alt="React.js"/><br>
       <b>React.js</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="42" height="42" alt="HTML5"/><br>
+      <img src="https://skillicons.dev/icons?i=html" width="35" height="35" alt="HTML5"/><br>
       <b>HTML5</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="42" height="42" alt="CSS3"/><br>
+      <img src="https://skillicons.dev/icons?i=css" width="35" height="35" alt="CSS3"/><br>
       <b>CSS3</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="42" height="42" alt="JavaScript"/><br>
+      <img src="https://skillicons.dev/icons?i=js" width="35" height="35" alt="JavaScript"/><br>
       <b>JavaScript</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="42" height="42" alt="Bootstrap"/><br>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="35" height="35" alt="Bootstrap"/><br>
       <b>Bootstrap</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="42" height="42" alt="Tailwind CSS"/><br>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="35" height="35" alt="Tailwind CSS"/><br>
       <b>Tailwind CSS</b>
     </td>
   </tr>
@@ -121,19 +121,19 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" alt="MongoDB"/><br>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="35" height="35" alt="MongoDB"/><br>
       <b>MongoDB</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="42" height="42" alt="Express.js"/><br>
+      <img src="https://skillicons.dev/icons?i=express" width="35" height="35" alt="Express.js"/><br>
       <b>Express.js</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="42" height="42" alt="React.js"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="35" height="35" alt="React.js"/><br>
       <b>React.js</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" alt="Node.js"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="35" height="35" alt="Node.js"/><br>
       <b>Node.js</b>
     </td>
   </tr>
@@ -146,11 +146,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="42" height="42" alt="MySQL"/><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="35" height="35" alt="MySQL"/><br>
       <b>MySQL</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" alt="MongoDB"/><br>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="35" height="35" alt="MongoDB"/><br>
       <b>MongoDB</b>
     </td>
   </tr>
@@ -159,26 +159,26 @@
 
 ### 🔧 Development Tools
 
-<table>
+<table border="0">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git"/><br>
+      <img src="https://skillicons.dev/icons?i=git" width="35" height="35" alt="Git"/><br>
       <b>Git</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub"/><br>
+      <img src="https://skillicons.dev/icons?i=github" width="35" height="35" alt="GitHub"/><br>
       <b>GitHub</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=eclipse" width="42" height="42" alt="Eclipse"/><br>
+      <img src="https://skillicons.dev/icons?i=eclipse" width="35" height="35" alt="Eclipse"/><br>
       <b>Eclipse</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" alt="VS Code"/><br>
+      <img src="https://skillicons.dev/icons?i=vscode" width="35" height="35" alt="VS Code"/><br>
       <b>VS Code</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" width="42" height="42" alt="Postman"/><br>
+      <img src="https://skillicons.dev/icons?i=postman" width="35" height="35" alt="Postman"/><br>
       <b>Postman</b>
     </td>
   </tr>

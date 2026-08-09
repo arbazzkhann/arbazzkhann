@@ -46,7 +46,7 @@
 
 ### ☕ Java Full Stack
 
-<table>
+<table style="border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; border-radius: 12px; overflow: hidden;">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=java" width="35" height="35" alt="Java"/><br>
@@ -85,7 +85,7 @@
 
 ### 🌐 Frontend
 
-<table>
+<table style="border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; border-radius: 12px; overflow: hidden;">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="35" height="35" alt="React.js"/><br>
@@ -118,7 +118,7 @@
 
 ### 🟢 MERN Stack
 
-<table>
+<table style="border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; border-radius: 12px; overflow: hidden;">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mongodb" width="35" height="35" alt="MongoDB"/><br>
@@ -143,7 +143,7 @@
 
 ### 🗄️ Databases
 
-<table>
+<table style="border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; border-radius: 12px; overflow: hidden;">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="35" height="35" alt="MySQL"/><br>
@@ -160,32 +160,34 @@
 
 ### 🔧 Development Tools
 
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-  <td align="center" style="border: 0 !important;">
+<table style="border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; border-radius: 12px; overflow: hidden;">
+  <tr>
+
+  <td align="center" style="border-right: 1px solid #30363d; padding: 12px 18px;">
     <img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git"/><br>
     <b>Git</b>
   </td>
 
-  <td align="center" style="border: 0 !important;">
+  <td align="center" style="border-right: 1px solid #30363d; padding: 12px 18px;">
     <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub"/><br>
     <b>GitHub</b>
   </td>
 
-  <td align="center" style="border: 0 !important;">
+  <td align="center" style="border-right: 1px solid #30363d; padding: 12px 18px;">
     <img src="https://skillicons.dev/icons?i=eclipse" width="42" height="42" alt="Eclipse"/><br>
     <b>Eclipse</b>
   </td>
 
-  <td align="center" style="border: 0 !important;">
+  <td align="center" style="border-right: 1px solid #30363d; padding: 12px 18px;">
     <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" alt="VS Code"/><br>
     <b>VS Code</b>
   </td>
 
-  <td align="center" style="border: 0 !important;">
+  <td align="center" style="padding: 12px 18px;">
     <img src="https://skillicons.dev/icons?i=postman" width="42" height="42" alt="Postman"/><br>
     <b>Postman</b>
   </td>
+
   </tr>
 </table>
 

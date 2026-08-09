@@ -6,7 +6,7 @@
   />
 </p>
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I’m @Arbaz Khan
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I’m <a href="https://www.linkedin.com/in/arbazzkhann"> @Arbaz Khan </a>
 
 - 💻 I'm a **Java Full Stack Developer**
 - ☕ Currently focused on **Java & Spring Boot**
@@ -38,7 +38,10 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f607/512.webp" width="28px"/>&nbsp;Socials:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbazzkhann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xr_arbazsaifi)
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f607/512.webp" width="28px"/>&nbsp;Socials:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbazzkhann)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xr_arbazsaifi)
 
 ---
 
@@ -304,6 +307,18 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arbazzkhann&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arbazzkhann&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Parrots -->
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 
 <p align="center">
   <img

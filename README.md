@@ -48,29 +48,66 @@
 
 <table style="border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; border-radius: 12px; overflow: hidden;">
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="35" height="35" alt="Java"/><br>
-      <b>Java</b>
+    <td align="center"
+        style="width:100px; height:75px; border-right:1px solid #30363d; padding:5px;">
+      <img
+        src="https://skillicons.dev/icons?i=java"
+        width="35"
+        height="35"
+        alt="Java"
+      /><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>Java</b>
+      </span>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=spring" width="35" height="35" alt="Spring"/><br>
-      <b>Spring</b>
+    <td align="center"
+        style="width:100px; height:75px; border-right:1px solid #30363d; padding:5px;">
+      <img
+        src="https://skillicons.dev/icons?i=spring"
+        width="35"
+        height="35"
+        alt="Spring"
+      /><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>Spring</b>
+      </span>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=hibernate" width="35" height="35" alt="Hibernate"/><br>
-      <b>Hibernate</b>
+    <td align="center"
+        style="width:100px; height:75px; border-right:1px solid #30363d; padding:5px;">
+      <img
+        src="https://skillicons.dev/icons?i=hibernate"
+        width="35"
+        height="35"
+        alt="Hibernate"
+      /><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>Hibernate</b>
+      </span>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=maven" width="35" height="35" alt="Maven"/><br>
-      <b>Maven</b>
+    <td align="center"
+        style="width:100px; height:75px; border-right:1px solid #30363d; padding:5px;">
+      <img
+        src="https://skillicons.dev/icons?i=maven"
+        width="35"
+        height="35"
+        alt="Maven"
+      /><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>Maven</b>
+      </span>
     </td>
-    <td align="center">
-      <img src="https://download.logo.wine/logo/Apache_Tomcat/Apache_Tomcat-Logo.wine.png"
-           width="35"
-           height="35"
-           alt="Apache Tomcat"
-           style="background-color:#235938; border-radius:8px; padding:4px;"/><br>
-      <b>Tomcat</b>
+    <td align="center"
+        style="width:100px; height:75px; padding:5px;">
+      <img
+        src="https://download.logo.wine/logo/Apache_Tomcat/Apache_Tomcat-Logo.wine.png"
+        width="35"
+        height="35"
+        alt="Apache Tomcat"
+        style="background-color:#235938; border-radius:8px; padding:4px;"
+      /><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>Tomcat</b>
+      </span>
     </td>
   </tr>
 </table>
@@ -87,29 +124,53 @@
 
 <table style="border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; border-radius: 12px; overflow: hidden;">
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="35" height="35" alt="React.js"/><br>
-      <b>React.js</b>
+    <td align="center"
+        style="width:100px; height:75px; border-right:1px solid #30363d; padding:5px;">
+      <img src="https://skillicons.dev/icons?i=react"
+           width="35" height="35" alt="React.js"/><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>React.js</b>
+      </span>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="35" height="35" alt="HTML5"/><br>
-      <b>HTML5</b>
+    <td align="center"
+        style="width:100px; height:75px; border-right:1px solid #30363d; padding:5px;">
+      <img src="https://skillicons.dev/icons?i=html"
+           width="35" height="35" alt="HTML5"/><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>HTML5</b>
+      </span>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="35" height="35" alt="CSS3"/><br>
-      <b>CSS3</b>
+    <td align="center"
+        style="width:100px; height:75px; border-right:1px solid #30363d; padding:5px;">
+      <img src="https://skillicons.dev/icons?i=css"
+           width="35" height="35" alt="CSS3"/><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>CSS3</b>
+      </span>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="35" height="35" alt="JavaScript"/><br>
-      <b>JavaScript</b>
+    <td align="center"
+        style="width:100px; height:75px; border-right:1px solid #30363d; padding:5px;">
+      <img src="https://skillicons.dev/icons?i=js"
+           width="35" height="35" alt="JavaScript"/><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>JavaScript</b>
+      </span>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="35" height="35" alt="Bootstrap"/><br>
-      <b>Bootstrap</b>
+    <td align="center"
+        style="width:100px; height:75px; border-right:1px solid #30363d; padding:5px;">
+      <img src="https://skillicons.dev/icons?i=bootstrap"
+           width="35" height="35" alt="Bootstrap"/><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>Bootstrap</b>
+      </span>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="35" height="35" alt="Tailwind CSS"/><br>
-      <b>Tailwind CSS</b>
+    <td align="center"
+        style="width:100px; height:75px; padding:5px;">
+      <img src="https://skillicons.dev/icons?i=tailwind"
+           width="35" height="35" alt="Tailwind CSS"/><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>Tailwind CSS</b>
+      </span>
     </td>
   </tr>
 </table>
@@ -120,21 +181,37 @@
 
 <table style="border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; border-radius: 12px; overflow: hidden;">
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="35" height="35" alt="MongoDB"/><br>
-      <b>MongoDB</b>
+    <td align="center"
+        style="width:100px; height:75px; border-right:1px solid #30363d; padding:5px;">
+      <img src="https://skillicons.dev/icons?i=mongodb"
+           width="35" height="35" alt="MongoDB"/><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>MongoDB</b>
+      </span>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="35" height="35" alt="Express.js"/><br>
-      <b>Express.js</b>
+    <td align="center"
+        style="width:100px; height:75px; border-right:1px solid #30363d; padding:5px;">
+      <img src="https://skillicons.dev/icons?i=express"
+           width="35" height="35" alt="Express.js"/><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>Express.js</b>
+      </span>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="35" height="35" alt="React.js"/><br>
-      <b>React.js</b>
+    <td align="center"
+        style="width:100px; height:75px; border-right:1px solid #30363d; padding:5px;">
+      <img src="https://skillicons.dev/icons?i=react"
+           width="35" height="35" alt="React.js"/><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>React.js</b>
+      </span>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="35" height="35" alt="Node.js"/><br>
-      <b>Node.js</b>
+    <td align="center"
+        style="width:100px; height:75px; padding:5px;">
+      <img src="https://skillicons.dev/icons?i=nodejs"
+           width="35" height="35" alt="Node.js"/><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>Node.js</b>
+      </span>
     </td>
   </tr>
 </table>
@@ -145,13 +222,29 @@
 
 <table style="border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; border-radius: 12px; overflow: hidden;">
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="35" height="35" alt="MySQL"/><br>
-      <b>MySQL</b>
+    <td align="center" width="100" height="75"
+        style="width:100px; height:75px; border-right:1px solid #30363d; padding:5px;">
+      <img
+        src="https://skillicons.dev/icons?i=mysql"
+        width="35"
+        height="35"
+        alt="MySQL"
+      /><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>MySQL</b>
+      </span>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="35" height="35" alt="MongoDB"/><br>
-      <b>MongoDB</b>
+    <td align="center" width="100" height="75"
+        style="width:100px; height:75px; padding:5px;">
+      <img
+        src="https://skillicons.dev/icons?i=mongodb"
+        width="35"
+        height="35"
+        alt="MongoDB"
+      /><br>
+      <span style="display:inline-block; width:100px; height:18px;">
+        <b>MongoDB</b>
+      </span>
     </td>
   </tr>
 </table>
@@ -162,32 +255,46 @@
 
 <table style="border-collapse: separate; border-spacing: 0; border: 1px solid #30363d; border-radius: 12px; overflow: hidden;">
   <tr>
-
-  <td align="center" style="border-right: 1px solid #30363d; padding: 12px 18px;">
-    <img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git"/><br>
-    <b>Git</b>
-  </td>
-
-  <td align="center" style="border-right: 1px solid #30363d; padding: 12px 18px;">
-    <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub"/><br>
-    <b>GitHub</b>
-  </td>
-
-  <td align="center" style="border-right: 1px solid #30363d; padding: 12px 18px;">
-    <img src="https://skillicons.dev/icons?i=eclipse" width="42" height="42" alt="Eclipse"/><br>
-    <b>Eclipse</b>
-  </td>
-
-  <td align="center" style="border-right: 1px solid #30363d; padding: 12px 18px;">
-    <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" alt="VS Code"/><br>
-    <b>VS Code</b>
-  </td>
-
-  <td align="center" style="padding: 12px 18px;">
-    <img src="https://skillicons.dev/icons?i=postman" width="42" height="42" alt="Postman"/><br>
-    <b>Postman</b>
-  </td>
-
+    <td align="center"
+        style="width:100px; height:90px; border-right:1px solid #30363d; padding:5px;">
+      <img src="https://skillicons.dev/icons?i=git"
+            width="42" height="42" alt="Git"/><br>
+      <span style="display:inline-block; width:100px; height:20px;">
+        <b>Git</b>
+      </span>
+    </td>
+    <td align="center"
+        style="width:100px; height:90px; border-right:1px solid #30363d; padding:5px;">
+      <img src="https://skillicons.dev/icons?i=github"
+            width="42" height="42" alt="GitHub"/><br>
+      <span style="display:inline-block; width:100px; height:20px;">
+        <b>GitHub</b>
+      </span>
+    </td>
+    <td align="center"
+        style="width:100px; height:90px; border-right:1px solid #30363d; padding:5px;">
+      <img src="https://skillicons.dev/icons?i=eclipse"
+            width="42" height="42" alt="Eclipse"/><br>
+      <span style="display:inline-block; width:100px; height:20px;">
+        <b>Eclipse</b>
+      </span>
+    </td>
+    <td align="center"
+        style="width:100px; height:90px; border-right:1px solid #30363d; padding:5px;">
+      <img src="https://skillicons.dev/icons?i=vscode"
+            width="42" height="42" alt="VS Code"/><br>
+      <span style="display:inline-block; width:100px; height:20px;">
+        <b>VS Code</b>
+      </span>
+    </td>
+    <td align="center"
+        style="width:100px; height:90px; padding:5px;">
+      <img src="https://skillicons.dev/icons?i=postman"
+            width="42" height="42" alt="Postman"/><br>
+      <span style="display:inline-block; width:100px; height:20px;">
+        <b>Postman</b>
+      </span>
+    </td>
   </tr>
 </table>
 

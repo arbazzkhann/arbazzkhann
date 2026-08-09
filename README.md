@@ -46,21 +46,34 @@
 
 ### ☕ Java Full Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="42" height="42"/>
-  <img src="https://download.logo.wine/logo/Apache_Tomcat/Apache_Tomcat-Logo.wine.png" alt="Apache Tomcat" width="42" height="42" style="background-color: #242938; border-radius: 8px;"/>
-</p>
-
-<p>
-  <b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Spring</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Hibernate</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Maven</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Apache Tomcat</b>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="42" height="42" alt="Java"/><br>
+      <b>Java</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring" width="42" height="42" alt="Spring"/><br>
+      <b>Spring</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=hibernate" width="42" height="42" alt="Hibernate"/><br>
+      <b>Hibernate</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=maven" width="42" height="42" alt="Maven"/><br>
+      <b>Maven</b>
+    </td>
+    <td align="center">
+      <img src="https://download.logo.wine/logo/Apache_Tomcat/Apache_Tomcat-Logo.wine.png"
+           width="42"
+           height="42"
+           alt="Apache Tomcat"
+           style="background-color:#242938; border-radius:8px; padding:4px;"/><br>
+      <b>Tomcat</b>
+    </td>
+  </tr>
+</table>
 
 **Core Java:**  
 `OOP` • `Collections` • `Exception Handling` • `Multithreading` • `I/O`
@@ -72,75 +85,104 @@
 
 ### 🌐 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="42" height="42"/>
-</p>
-
-<p>
-  <b>HTML5</b>&nbsp;&nbsp;&nbsp;
-  <b>CSS3</b>&nbsp;&nbsp;&nbsp;
-  <b>JavaScript</b>&nbsp;&nbsp;&nbsp;
-  <b>React.js</b>&nbsp;&nbsp;&nbsp;
-  <b>Bootstrap</b>&nbsp;&nbsp;&nbsp;
-  <b>Tailwind CSS</b>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="42" height="42" alt="React.js"/><br>
+      <b>React.js</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="42" height="42" alt="HTML5"/><br>
+      <b>HTML5</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="42" height="42" alt="CSS3"/><br>
+      <b>CSS3</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="42" height="42" alt="JavaScript"/><br>
+      <b>JavaScript</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="42" height="42" alt="Bootstrap"/><br>
+      <b>Bootstrap</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="42" height="42" alt="Tailwind CSS"/><br>
+      <b>Tailwind CSS</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🟢 MERN Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="42" height="42"/>
-</p>
-
-<p>
-  <b>MongoDB</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Express.js</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>React.js</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Node.js</b>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" alt="MongoDB"/><br>
+      <b>MongoDB</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="42" height="42" alt="Express.js"/><br>
+      <b>Express.js</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="42" height="42" alt="React.js"/><br>
+      <b>React.js</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42" alt="Node.js"/><br>
+      <b>Node.js</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="42" height="42"/>
-</p>
-
-<p>
-  <b>MySQL</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>MongoDB</b>
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="42" height="42" alt="MySQL"/><br>
+      <b>MySQL</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42" alt="MongoDB"/><br>
+      <b>MongoDB</b>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🔧 Development Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="42" height="42"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="42" height="42"/>
-</p>
-
-<p>
-  <b>Git</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>GitHub</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Eclipse</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>VS Code</b>&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Postman</b>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git"/><br>
+      <b>Git</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub"/><br>
+      <b>GitHub</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=eclipse" width="42" height="42" alt="Eclipse"/><br>
+      <b>Eclipse</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" alt="VS Code"/><br>
+      <b>VS Code</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="42" height="42" alt="Postman"/><br>
+      <b>Postman</b>
+    </td>
+  </tr>
+</table>
 
 ---
 

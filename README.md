@@ -104,7 +104,7 @@
         width="35"
         height="35"
         alt="Apache Tomcat"
-        style="background-color:#235938; border-radius:8px; padding:4px;"
+        style="background-color:#242938; border-radius:8px; padding:4px;"
       /><br>
       <span style="display:inline-block; width:100px; height:18px;">
         <b>Tomcat</b>

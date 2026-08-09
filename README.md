@@ -145,22 +145,16 @@
 ---
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" width="30px"/>&nbsp;GitHub Stats:
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arbazzkhann&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arbazzkhann&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-<!-- Contribution graph -->
-<p align="center" style="width: 700px;">
-  <a href="https://github.com/arbazzkhann/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arbazzkhann&theme=tokyo-night&area=true&hide_border=true" alt="My GitHub Activity Graph" />
-  </a>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/arbazzkhann/arbazzkhann/gh-pages/github-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
-
-
-<img
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Smilies/Cat%20with%20Tears%20of%20Joy.png"
-  alt="Cat with Tears of Joy"
-  width="25"
-  height="25"
-/>

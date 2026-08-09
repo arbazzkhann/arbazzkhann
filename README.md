@@ -162,32 +162,30 @@
 
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
+  <td align="center" style="border: 0 !important;">
+    <img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git"/><br>
+    <b>Git</b>
+  </td>
 
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=git" width="42" height="42" alt="Git"/><br>
-      <b>Git</b>
-    </td>
+  <td align="center" style="border: 0 !important;">
+    <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub"/><br>
+    <b>GitHub</b>
+  </td>
 
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub"/><br>
-      <b>GitHub</b>
-    </td>
+  <td align="center" style="border: 0 !important;">
+    <img src="https://skillicons.dev/icons?i=eclipse" width="42" height="42" alt="Eclipse"/><br>
+    <b>Eclipse</b>
+  </td>
 
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=eclipse" width="42" height="42" alt="Eclipse"/><br>
-      <b>Eclipse</b>
-    </td>
+  <td align="center" style="border: 0 !important;">
+    <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" alt="VS Code"/><br>
+    <b>VS Code</b>
+  </td>
 
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=vscode" width="42" height="42" alt="VS Code"/><br>
-      <b>VS Code</b>
-    </td>
-
-    <td align="center" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=postman" width="42" height="42" alt="Postman"/><br>
-      <b>Postman</b>
-    </td>
-
+  <td align="center" style="border: 0 !important;">
+    <img src="https://skillicons.dev/icons?i=postman" width="42" height="42" alt="Postman"/><br>
+    <b>Postman</b>
+  </td>
   </tr>
 </table>
 
